@@ -9,6 +9,8 @@ and I Love working with ReactJS, React Native and Flutter 📱
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=theketan2.goattheketan2andsheep)
 
+<a href="https://profile.codersrank.io/user/theketan2"><img width="480"  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=theketan2"></a>
+
 - 💬 Ask me about : ⚛ ReactJS 📱 React Native 📱 Flutter 💙
 
 - Few Online Profile Links:
