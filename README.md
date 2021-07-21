@@ -21,7 +21,7 @@ I Love working with ReactJS, React Native and Flutter 📱
 
 🌐 [**LinkedIn**][5]
 
-**🎩 [**#97 in the city of Pune**][7]**
+**🎩 [**#97 on SO in the city of Pune**][7]**
 
 -----------------------------------------------------
 
