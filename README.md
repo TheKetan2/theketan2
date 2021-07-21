@@ -25,14 +25,7 @@ and I Love working with ReactJS, React Native and Flutter 📱
 
 -----------------------------------------------------
 
-Thanks for stopping by,
-
-
-[![enter image description here][8]][8]
-
-Meanwhile, Happy Coding,
-
-Stay Safe, and Stay Schwifty 😎
+Thanks for stopping by, and Happy Coding,
 
 
   [1]: https://profile.codersrank.io/user/theketan2
