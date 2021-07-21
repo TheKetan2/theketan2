@@ -7,7 +7,7 @@ and I Love working with ReactJS, React Native and Flutter 📱
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=theketan2&count_private=true&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theketan2&hide=TeX&layout=compact&theme=synthwave)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=theketan2.goattheketan2andsheep)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=theketan2)
 
 <a href="https://profile.codersrank.io/user/theketan2"><img width="480"  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=theketan2"></a>
 
