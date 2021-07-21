@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am Ketan, 
-I Love working with ReactJS, React Native and Flutter 📱
+I am Ketan,
+and I Love working with ReactJS, React Native and Flutter 📱
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=theketan2&count_private=true&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theketan2&hide=TeX&layout=compact&theme=synthwave)
