@@ -7,6 +7,8 @@ I Love working with ReactJS, React Native and Flutter 📱
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=theketan2.goattheketan2andsheep)
 
+- 💬 Ask me about : ⚛ ReactJS 📱 React Native 📱 Flutter 💙
+
 <!--
 
 Here are some ideas to get you started:
