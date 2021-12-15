@@ -31,7 +31,7 @@ and I Love working with **ReactJS, React Native and Flutter 📱**
 
 🌐 [**LinkedIn**][5]
 
-🏅 [**#93 on Stackoverflow (Pune City)**][7]
+🏅 [**#92 on Stackoverflow (Pune City)**][7]
 
 -----------------------------------------------------
 
