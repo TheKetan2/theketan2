@@ -2,6 +2,9 @@
 I am Ketan,
 and I Love working with **ReactJS, React Native and Flutter 📱**
 
+<a href="https://www.linkedin.com/in/theketan2/"><img width="480" src="https://raw.githubusercontent.com/TheKetan2/theketan2/main/Linked%20In%20Wall.gif"></a>
+
+
 <a href="https://stackoverflow.com/users/5669120/ketan-ramteke"><img src="https://stackoverflow.com/users/flair/5669120.png" width="208" height="58" alt="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=theketan2)
