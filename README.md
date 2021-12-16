@@ -1,17 +1,15 @@
 ### Hi there 👋
 I am Ketan,
-and I Love working with **ReactJS, React Native and Flutter 📱**
+and I Love working with **ReactJS, React Native and Flutter 📱** ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=theketan2) 
 
 <a href="https://www.linkedin.com/in/theketan2/"><img width="" src="https://raw.githubusercontent.com/TheKetan2/theketan2/main/Linked%20In%20Wall.gif"></a>
 
 
-<a href="https://stackoverflow.com/users/5669120/ketan-ramteke"><img src="https://stackoverflow.com/users/flair/5669120.png" width="208" height="58" alt="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/5669120/ketan-ramteke"><img src="https://stackoverflow.com/users/flair/5669120.png" width="208" height="58" alt="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=theketan2)
+🏅 [**#92 on Stackoverflow (Pune City)**][7]
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=theketan2&count_private=true&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theketan2&hide=TeX&layout=compact&theme=synthwave)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=theketan2&count_private=true&show_icons=true&theme=synthwave) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theketan2&hide=TeX&layout=compact&theme=synthwave)
 
 <a href="https://profile.codersrank.io/user/theketan2"><img width="480" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=TheKetan2"></a>
 
@@ -22,20 +20,7 @@ and I Love working with **ReactJS, React Native and Flutter 📱**
 
 - Few Online Profile Links:
 
-🌐 [**Codersrank**][1]
-
-🌐 [**Codesandbox**][9]
-
-🌐 [**CodeSignal**][2] 
-
-🌐 [**Google Developer Profile**][3] 
-
-🌐 [**Edabit**][4]
-
-🌐 [**LinkedIn**][5]
-
-🏅 [**#92 on Stackoverflow (Pune City)**][7]
-
+[**Codersrank**][1],  [**Codesandbox**][9],  [**CodeSignal**][2], [**Google Developer Profile**][3],  [**Edabit**][4],  [**LinkedIn**][5], [**Codetrace**][10]
 -----------------------------------------------------
 
 Thanks for stopping by, and Happy Coding,
@@ -50,6 +35,7 @@ Thanks for stopping by, and Happy Coding,
   [7]: https://data.stackexchange.com/stackoverflow/query/edit/1388077
   [8]: https://i.stack.imgur.com/eT3h6.gif
   [9]: https://codesandbox.io/u/TheKetan2
+  [10]: https://codetrace.com/users/TheKetan2
 <!--
 
 <a href="https://profile.codersrank.io/user/theketan2"><img width="480"  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=theketan2"></a>
