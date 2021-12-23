@@ -9,10 +9,7 @@ and I Love working with **ReactJS, React Native and Flutter 📱** ![Visitor Bad
 
 🏅 [**#91 on Stackoverflow (Pune City)**][7]
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=theketan2&count_private=true&show_icons=true&theme=synthwave) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theketan2&hide=TeX&layout=compact&theme=synthwave)
-
 <a href="https://profile.codersrank.io/user/theketan2"><img width="480" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=TheKetan2"></a>
-
 
 - 💬 Ask me about : ⚛ ReactJS 📱 React Native 📱 Flutter 💙
 - 🌱 I’m currently learning Jetpack Compose 🚀📱, Docker🐋, Kubernetes ☸️
@@ -21,6 +18,11 @@ and I Love working with **ReactJS, React Native and Flutter 📱** ![Visitor Bad
 - Few Online Profile Links:
 
 [**Codetrace**][10],  [**Codersrank**][1],  [**Codesandbox**][9],  [**CodeSignal**][2], [**Google Developer Profile**][3],  [**Edabit**][4],  [**LinkedIn**][5]
+
+<div >&nbsp;<img align="center" width="375px" src="https://github-readme-stats.vercel.app/api?username=theketan2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="theketan2" />  <img align="center" width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=theketan2&theme=radical" alt="theketan2" /></div>
+
+<p><img align="center" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs?username=theketan2&show_icons=true&locale=en&layout=compact&theme=radical" alt="theketan2" /></p>
+
 -----------------------------------------------------
 
 Thanks for stopping by, and Happy Coding,
