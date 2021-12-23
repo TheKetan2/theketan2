@@ -7,7 +7,7 @@ and I Love working with **ReactJS, React Native and Flutter 📱** ![Visitor Bad
 
 <a href="https://stackoverflow.com/users/5669120/ketan-ramteke"><img src="https://stackoverflow.com/users/flair/5669120.png" width="208" height="58" alt="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> 
 
-🏅 [**#92 on Stackoverflow (Pune City)**][7]
+🏅 [**#91 on Stackoverflow (Pune City)**][7]
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=theketan2&count_private=true&show_icons=true&theme=synthwave) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theketan2&hide=TeX&layout=compact&theme=synthwave)
 
