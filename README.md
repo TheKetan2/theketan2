@@ -21,7 +21,7 @@ and I Love working with **ReactJS, React Native and Flutter 📱** ![Visitor Bad
 
 <div >&nbsp;<img align="center" width="375px" src="https://github-readme-stats.vercel.app/api?username=theketan2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="theketan2" />  <img align="center" width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=theketan2&theme=radical" alt="theketan2" /></div>
 
-<p><img align="center" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs?username=theketan2&show_icons=true&locale=en&layout=compact&theme=radical" alt="theketan2" /></p>
+<p><img align="center" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs?username=theketan2&show_icons=true&locale=en&layout=compact&theme=algolia" alt="theketan2" /></p>
 
 -----------------------------------------------------
 
