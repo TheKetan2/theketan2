@@ -12,7 +12,6 @@ Native and Flutter 📱** ![Visitor Badge](https://visitor-badge.laobi.icu/badge
 🏅 [**#90 on Stackoverflow (Pune City)**][7]
 
 - 💬 Ask me about : ⚛ ReactJS 📱 React Native 📱 Flutter 💙
-- 📫 How to reach me: ketantooforhire@gmail.com
 
 - Few Online Profile Links: [**Codetrace**][10],  [**Codersrank**][1],  [**Codesandbox**][9],  [**CodeSignal**][2], [**Google Developer Profile**][3],  [**Edabit**][4],  [**LinkedIn**][5]
 
@@ -52,5 +51,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ....
 - 😄 Pronouns: ....
 - ⚡ Fun fact: ....
+- 📫 How to reach me: ketantooforhire@gmail.com
 
 -->
