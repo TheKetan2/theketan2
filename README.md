@@ -16,12 +16,16 @@ Native and Flutter 📱** ![Visitor Badge](https://visitor-badge.laobi.icu/badge
 
 - Few Online Profile Links: [**Codetrace**][10],  [**Codersrank**][1],  [**Codesandbox**][9],  [**CodeSignal**][2], [**Google Developer Profile**][3],  [**Edabit**][4],  [**LinkedIn**][5]
 
-<div >&nbsp;<img align="center" width="375px" src="https://github-readme-stats.vercel.app/api?username=theketan2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="theketan2" />  <img align="center" width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=theketan2&theme=radical" alt="theketan2" /></div>
-<p/>
 <div>
   <img align="center" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs?username=theketan2&show_icons=true&locale=en&layout=compact&theme=algolia" alt="theketan2" />
   <a href="https://profile.codersrank.io/user/theketan2"><img  align="center" width="380px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=TheKetan2"></a>
 </div>
+
+<div/>
+
+<div >&nbsp;<img align="center" width="375px" src="https://github-readme-stats.vercel.app/api?username=theketan2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="theketan2" />  </div>
+<p/>
+
 
 -----------------------------------------------------
 
