@@ -8,7 +8,9 @@ Native and Flutter 📱** ![Visitor Badge](https://visitor-badge.laobi.icu/badge
 <a href="https://www.linkedin.com/in/theketan2/"><img width="" src="https://raw.githubusercontent.com/TheKetan2/theketan2/main/Linked%20In%20Wall.gif"></a>
 
 
-<a href="https://stackoverflow.com/users/5669120/ketan-ramteke"><img src="https://stackoverflow.com/users/flair/5669120.png" width="208" height="58" alt="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> 
+<a href="https://stackoverflow.com/users/5669120/ketan-ramteke"><img src="https://stackoverflow.com/users/flair/5669120.png" width="208" height="58" alt="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+[![Check out TheKetan2's profile on stardev.io](https://stardev.io/developers/TheKetan2/badge/languages/locality.svg)](https://stardev.io/developers/TheKetan2) 
 
 🏅 [**#85 on Stackoverflow (Pune City)**][7]
 
