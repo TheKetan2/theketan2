@@ -10,8 +10,6 @@ Native and Flutter 📱** ![Visitor Badge](https://visitor-badge.laobi.icu/badge
 
 <a href="https://stackoverflow.com/users/5669120/ketan-ramteke"><img src="https://stackoverflow.com/users/flair/5669120.png" width="208" height="58" alt="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-[![Check out TheKetan2's profile on stardev.io](https://stardev.io/developers/TheKetan2/badge/languages/locality.svg)](https://stardev.io/developers/TheKetan2) 
-
 🏅 [**#85 on Stackoverflow (Pune City)**][7]
 
 - 💬 Ask me about : ⚛ ReactJS 📱 React Native 📱 Flutter 💙
@@ -22,6 +20,9 @@ Native and Flutter 📱** ![Visitor Badge](https://visitor-badge.laobi.icu/badge
   <img align="center" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs?username=theketan2&show_icons=true&locale=en&layout=compact&theme=algolia" alt="theketan2" />
   <a href="https://profile.codersrank.io/user/theketan2"><img  align="center" width="380px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=TheKetan2"></a>
 </div>
+
+
+[![Check out TheKetan2's profile on stardev.io](https://stardev.io/developers/TheKetan2/badge/languages/locality.svg)](https://stardev.io/developers/TheKetan2) 
 
 
 <div/>
