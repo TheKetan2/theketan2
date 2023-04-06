@@ -10,7 +10,7 @@ Native and Flutter 📱** ![Visitor Badge](https://visitor-badge.laobi.icu/badge
 
 <a href="https://stackoverflow.com/users/5669120/ketan-ramteke"><img src="https://stackoverflow.com/users/flair/5669120.png" width="208" height="58" alt="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ketan Ramteke at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-🏅 [**#83 on Stackoverflow (Pune City)**][7]
+🏅 [**#79 on Stackoverflow (Pune City)**][7]
 
 - 💬 Ask me about : ⚛ ReactJS 📱 React Native 📱 Flutter 💙
 
